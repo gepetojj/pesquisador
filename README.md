@@ -14,6 +14,10 @@ O pesquisador está na voa1.0
 
 Este software faz um web scraping no site Wikipédia sobre um tema selecionado pelo usuário e retorna um arquivo de texto contendo informações sobre o tema.
 
+### Como usar o software
+
+Assim que abrir o programa, ele pode demorar um pouco para iniciar. Vai surgir um texto na tela: "Digite o tema da pesquisa: ". O usuário digitará o tema e o programa vai pesquisar, e de forma automática vai gerar um arquivo de texto na resultados (veja um exemplo na pasta). O arquivo sempre será nomeado com o tema da pesquisa. No final do texto terá o link da página em que o texto foi retirado.
+
 ### Comunidade
 #### O que é esperado da comunidade?
 
