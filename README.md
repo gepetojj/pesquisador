@@ -4,7 +4,7 @@
 
 ### Geral
 
-Minha intenção ao criar este programa foi desenvolver algo simples que possa ajudar alguém que precisa de automação em pesquisas. Verifique a licensa deste programa antes de fazer algo com o mesmo. Este software foi escrito em Python usando apenas duas bibliotecas (em sua versão original) que serão citadas mais abaixo. Ele foi feito para funcionar na versão 3.6.9 do Python e provavelmente terá que ser atualizado para funcionar em versões mais atuais.
+Minha intenção ao criar este programa foi desenvolver algo simples que possa ajudar alguém que precisa de automação em pesquisas. Verifique a licença deste programa antes de fazer algo com o mesmo. Este software foi escrito em Python usando apenas duas bibliotecas (em sua versão original) que serão citadas mais abaixo. Ele foi feito para funcionar na versão 3.6.9 do Python e provavelmente terá que ser atualizado para funcionar em versões mais atuais.
 
 ### Versão original atual
 
